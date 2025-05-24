@@ -8,7 +8,7 @@
 
   <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f6f9fc; padding:20px 0;">
     
-      <td align="center"> </td>
+   <td align="center"> </td>
         <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:8px; overflow:hidden;">
   
           
@@ -18,7 +18,7 @@
   <td align="center" style="padding: 20px;">
 <img src="IMG_0523.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
             </td>
-          </tr>
+          
 
           <!-- Body -->
    <tr>
