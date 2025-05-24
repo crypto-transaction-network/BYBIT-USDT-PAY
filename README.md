@@ -7,7 +7,7 @@
 <body style="margin:0; padding:0; background-color:#f6f9fc; font-family: Arial, sans-serif;">
 
   <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f6f9fc; padding:20px 0;">
-    <tr>
+    
       <td align="center"> </td>
         <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:8px; overflow:hidden;">
   
