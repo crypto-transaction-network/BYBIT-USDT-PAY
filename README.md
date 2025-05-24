@@ -67,7 +67,7 @@
                 </tr>
                 <tr>
                   <td style="padding:10px;"><strong>Miner:</strong></td>
-                  <td style="padding:10px;">Fountry USA----------------------------------------------</td>
+                  <td style="padding:10px;">Fountry Philippines 260 USDT--------------------</td>
                 </tr>
                 <tr>
                   <td style="padding:10px;"><strong>Version:</strong></td>
