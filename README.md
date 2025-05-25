@@ -67,7 +67,7 @@
 
 <br>
   
-<table align="center" width="100%" style="font-size:14px; color:#05a5f0;">
+<table align="center" width="800%" style="font-size:14px; color:#05a5f0;">
     <tr>
         <td style="color: Black; font-weight: bold; font-style: italic;">Gas (estimated): [$482] = 482 USDT</td>
     </tr>
