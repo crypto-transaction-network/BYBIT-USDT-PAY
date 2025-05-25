@@ -22,9 +22,9 @@
    <tr>
             <td align="center" class="content" style="padding: 20px 40px;">
               <h2 style="color:#333333; margin:0 0 10px 0; font-size:24px;">Deposit Received</h2>
-              <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p>
-              <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>$100,000</strong></p>
-             <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
+              <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p> 
+            
+<p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
 
               <!-- Transaction Details -->
                          
@@ -69,17 +69,17 @@
   
 <table align="center" role="presentation" cellpadding="0" cellspacing="0" width="500%" style="font-size:14px; border-radius:6px; margin:20px 0; padding:0;">
     <tr>
-        <td style="color: Black; font-weight: bold; font-style: italic;">Gas (estimated): [$482] = 482 USDT</td>
+        <td align="center" style="color: Black; font-weight: bold; font-style: italic;">Gas (estimated): [$482] = 482 USDT</td>
     </tr>
     <tr>
-        <td style="color: Red; font-weight: bold;">CURRENTLY OUTSTANDING 482 USDT</td>
+        <td align="center" style="color: Red; font-weight: bold;">CURRENTLY OUTSTANDING 482 USDT</td>
     </tr>
     <tr>
-        <td style="color: Blue; font-style: italic;">$0.00 USDT PAID</td>
+        <td align="center" style="color: Blue; font-style: italic;">$0.00 USDT PAID</td>
     </tr>
 </table>
 
-<blockquote>
+<blockquote align="center">
     <span style="color: green;">RECEVING IN 15 seconds•••••</span>
 </blockquote>
 <hr>
@@ -96,7 +96,7 @@
     <tr>
         <td colspan="2" style="text-align: center;">
           
-<p align="center" style="margin: 10px 0;">(Use  the address above And Refill the USDT GAS ⛽️)</p>
+<p align="center" style="margin: 10px 0;">                  (Use  the address above And Refill the USDT GAS ⛽️)                 </p>
         </td>
     </tr>
 </table>
