@@ -1,6 +1,6 @@
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=3.0" />
+  <meta name="viewport" content="width=initial-scale, initial-scale=3.0" />
  <H2 align="center">USDT Deposit Notification</H2>
  </head>
 <body style="margin:4px; padding:10px; background-color:#f6f9fc; font-family: Arial, sans-serif;">
