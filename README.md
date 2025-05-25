@@ -28,7 +28,7 @@
 
               <!-- Transaction Details -->
                          
-<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#05a5f0; background-color:#05a5f0; border-radius:6px; margin:20px 0;">
+<table align="center">
                 <tr>
                   <td style="padding:10px;"><strong>Transaction Reference:</strong></td>
                   <td style="padding:10px;">e3019139-5efd-4ae1-ad70-b645454404f</td>
