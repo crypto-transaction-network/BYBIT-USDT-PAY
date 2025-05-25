@@ -117,4 +117,4 @@
               ®️ PRIVACY POLICY
 
              
-  <img src="IMG_0524.png" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
+  <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
