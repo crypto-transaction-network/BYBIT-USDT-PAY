@@ -101,12 +101,19 @@
   
 <hr>
 
+<div style="text-align: center;">
   <span style="color: RED;"><strong>ERROR!!!</strong></span>
     <p style="margin: 10px 0;"> ⏬ </p>
    <span style="color: Red;">Warning! Error encountered during Withdraw execution [Out of gas]⚠️</span>
-    <br>
-  ✅ This transaction is <span style="color: Red;">Processing </span>,Top-Up USDT Gas to Complete.✓⃝
+   
+</div>
+<br>
 
+
+<div style="text-align: center;">
+  ✅ This transaction is <span style="color: Red;">Processing </span>,Top-Up USDT Gas to Complete.✓⃝
+</div>
+  
 <div style="text-align: center;">
   <img src="IMG_0567.jpeg" alt="blockchain Logo" width="320" style="display: inline-block;"/>
 </div>
