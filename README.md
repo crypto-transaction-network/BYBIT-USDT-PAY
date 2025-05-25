@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <H2 align="center"> Deposit Notification</H2>
+  <h2 align="center"> Deposit Notification</h2>
  </head>
 <body style="margin:0; padding:0; background-color:#f6f9fc; font-family: Arial, sans-serif;">
 
@@ -67,22 +67,40 @@
 
 <br>
   
-<b>Gas(estimated):[$482]=482 USDT</b>
+<table>
+    <tr>
+        <td style="color: Black; font-weight: bold; font-style: italic;">Gas (estimated): [$482] = 482 USDT</td>
+    </tr>
+    <tr>
+        <td style="color: Red; font-weight: bold;">CURRENTLY OUTSTANDING</td>
+    </tr>
+    <tr>
+        <td style="color: Blue; font-style: italic;">$0.00 USDT PAID</td>
+    </tr>
+</table> <br>
 
-<span style="color: Red;"><b>CURRENTLY OUTSTANDING</b></span>
-</div>
-<br>
-
-<span style="color: Blue;"> ~~$0.00 USDT PAID~~ </span> <br>
-
-<span style="color: green;">RECEVING IN <<<15 seconds</span>
+<blockquote>
+    <span style="color: green;">RECEVING IN 15 seconds•••••</span>
+</blockquote>
 
 <hr>
-
-| TOP USDT GAS⛽️    | TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o|
-|---------------------------|---------------------------|
-| USDT  network         | ⛽️ Gas Refill ID ⬆️       |
-
+<h4>Payment Method<h4>
+<table style="width: 100%; max-width: 400px; margin: 20px auto; border-collapse: collapse; border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+    <tr>
+        <th colspan="2" style="padding: 15px; text-align: center; background-color: #f2f2f2;">TOP GAS⛽️ | USDT Network</th>
+    </tr>
+    <tr>
+        <td style="padding: 15px; text-align: center;">⛽️ Gas Refill ID</td>
+        <td id="gasAddress" style="padding: 15px; text-align: center;">TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <span style="display: inline-block; margin-top: 10px;">TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o</span>
+            <p style="margin: 10px 0;">(Please copy the address above manually)</p>
+        </td>
+    </tr>
+</table>
+<hr>
 
 <img align="center" src="IMG_0565.jpeg" alt="blockchain Logo" width="38" />
 
@@ -104,11 +122,12 @@
 <img align="center" src="IMG_9113.jpeg" alt="ethscan Logo" width="500" />
 <br>
 <form action="https://etherscan.io/" method="get">
-<button align="center" type="submit"> Accept incoming ETH [$25,000] </button>
+<button align="center" type="submit"> Accept incoming USDT [$100,000] </button>
 </form>
-<hr>
-<img align="center" src="IMG_9086.gif" alt="loading gif display" width="500">
 
+<hr>
+
+<img align="center" src="IMG_9086.gif" alt="loading gif display" width="500">
 
 <img align="center" src="IMG_0561.png" alt="usdex explanation" width="500" />
               
