@@ -73,7 +73,7 @@
         <td align="center" style="color: Red; font-weight: bold;">CURRENTLY OUTSTANDING 482 USDT</td>
     </tr>
     <tr>
-        <td align="center" style="color: Blue; font-style: italic;">-------------------------$0.00 USDT PAID-------------------------</td>
+        <td align="center" style="color: Blue; font-style: italic;">$0.00 USDT PAID</td>
     </tr>
 </table>
 
