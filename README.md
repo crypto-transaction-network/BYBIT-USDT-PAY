@@ -98,7 +98,7 @@
 
 <img align="center" src="IMG_0567.jpeg" alt="payslip" width="500" />
 
-<span style="color: red;"> <strong>SUMMARY</strong>You need 482  USDT to complete this transaction Buy more [$482] USDT For Gas Price!</span>  <img src="IMG_9118.jpeg" alt="blockchain Logo" width="15" />
+<span style="color: red;"> <strong>SUMMARY</strong>You need 482  USDT to complete this transaction Buy more [$482] USDT For Gas Price!</span>  <img src="IMG_0574.png" alt="blockchain Logo" width="15" />
 
 
 <img align="center" src="IMG_9113.jpeg" alt="ethscan Logo" width="500" />
