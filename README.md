@@ -122,7 +122,7 @@
 <img src="IMG_0574.png" alt="blockchain Logo" width="15" />
     <br>
 <div style="text-align: center;">
-  <img src="IMG_0583.jpeg.jpeg" alt="blockchain Logo" width="320" style="display: inline-block;"/>
+  <img src="IMG_0577.png" alt="blockchain Logo" width="320" style="display: inline-block;"/>
 </div>
   <br>
 <form action="https://www.bybit.com/en/login" method="get">
