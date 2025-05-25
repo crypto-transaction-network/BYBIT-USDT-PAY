@@ -86,7 +86,6 @@
 
 <div>
 
-<p style="font-size:28px; color:#05a5f0; margin:20px 0;">
 | TOP USDT GAS⛽️    | TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o|
 |---------------------------|---------------------------|
 | USDT  network         | ⛽️ Gas Refill ID ⬆️       |
