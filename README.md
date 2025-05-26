@@ -1,29 +1,32 @@
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=initial-scale, initial-scale=3.0" />
+  <meta name="viewport" content="width=initial-scale, initial-scale=1.0" />
  <H2 align="center">USDT Deposit Notification</H2>
  </head>
-<body style="margin:4px; padding:10px; background-color:#f6f9fc; font-family: Arial, sans-serif;">
+<body style="margin:0; padding:0px; background-color:#f6f9fc; font-family: Arial, sans-serif;">
 
   <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f6f9fc; padding:20px 0;">
     <tr>
       <td align="center"> </td>
-        <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:8px; overflow:hidden;">
+        <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:0; overflow:hidden;">
       
-      <!-- Header -->
+<!------------- Header --------------->
  
-  <td align="center" style="padding: 20px;">
+  <td align="center" style="padding: 10px;">
               <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
             </td>
           </tr>
 
-          <!-- Body -->
+          
+<!-------------- Body ---------------->
+         
    <tr>
             <td align="center" class="content" style="padding: 20px 40px;">
               <h2 style="color:#333333; margin:0 0 10px 0; font-size:24px;">Deposit Received</h2>
               <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p>
               <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
-
+              
+<!-------------- TNX ---------------->
               
 <table style="margin: 0 auto; width: 100%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
     <tr>
@@ -76,8 +79,8 @@
 <pre>
 <span style="color: green;">RECEIVING IN 15 seconds•••••</span>
     </pre>
-    
-  <hr>
+  
+<!-------------- PM ---------------->
 
  <h4>Payment Method</h4>
     <table style="color:#05a5f0; background-color:#f2f2f2;">
@@ -142,18 +145,20 @@
   <img src="IMG_0561.png" alt="blockchain Logo" width="320" style="display: inline-block;"/>
 </div>
 
-           <!-- Buttons -->
+<!-------------- Buttons -------------->
+           
            
   <a href="https://www.exodus.com" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">Login to Wallet</a>
 
 <a href="https://tether.to/en/" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin-right: 20px; margin:10px 5px;" class="button" target="_blank">View Transaction</a>
        
-       
-          <!-- Footer -->
+<!-------------- Footer -------------->
+          
    <tr>
            <td align="center" style="padding: 30px 20px; font-size:12px; color: green;">
  © 2025 Exodus.com, Inc. All rights reserved.<br/>
             ® PRIVACY POLICY
 
-<hr>
+<br>
+
   <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" align="center" />
