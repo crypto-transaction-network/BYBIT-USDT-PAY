@@ -1,239 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>USDT Deposit Notification</title>
-  <style>
-    body {
-      background-color: #f6f9fc;
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      color: #222;
-    }
-    .email-body {
-      width: 100%;
-      min-height: 100vh;
-      padding: 0;
-      margin: 0;
-    }
-    .header {
-      background: #f6f9fc;
-      text-align: left;
-      padding: 36px 48px 18px 48px;
-    }
-    .header img {
-      width: 140px;
-      margin-bottom: 12px;
-    }
-    h2, h4 {
-      color: #05386b;
-      margin: 12px 0;
-    }
-    .main-content {
-      padding: 0 48px;
-      margin: 0;
-    }
-    .amount {
-      color: #05a5f0;
-      font-size: 2.2em;
-      font-weight: bold;
-      margin: 0 0 12px 0;
-    }
-    .info-table, .gas-table, .pm-table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-bottom: 24px;
-      background: #f9fafb;
-      font-size: 1.03em;
-    }
-    .info-table th, .gas-table th, .pm-table th {
-      background: #f0f4f8;
-      font-weight: 600;
-      text-align: left;
-      padding: 10px 16px;
-      color: #222;
-    }
-    .info-table td, .gas-table td, .pm-table td {
-      padding: 10px 16px;
-      border-bottom: 1px solid #e0e0e0;
-    }
-    .info-table tr:last-child td, .gas-table tr:last-child td, .pm-table tr:last-child td {
-      border-bottom: none;
-    }
-    .center {
-      text-align: center;
-    }
-    .big-img {
-      width: 320px;
-      max-width: 100%;
-      border-radius: 6px;
-      margin: 20px auto;
-      display: block;
-    }
-    .small-img {
-      width: 38px;
-      margin: 0 8px;
-      display: inline-block;
-      vertical-align: middle;
-    }
-    .button, button {
-      display: inline-block;
-      background: #0052ff;
-      color: #fff;
-      padding: 14px 32px;
-      font-size: 1.1em;
-      font-weight: bold;
-      border: none;
-      border-radius: 5px;
-      margin: 18px 8px 12px 0;
-      cursor: pointer;
-      text-decoration: none;
-      transition: background 0.2s;
-    }
-    .button-purple {
-      background: purple;
-    }
-    .button-green {
-      background: #00c292;
-    }
-    .notice, .summary {
-      color: green;
-      font-size: 1.06em;
-      margin: 10px 0 20px 0;
-      display: block;
-      text-align: center;
-    }
-    .summary {
-      color: red;
-      font-weight: bold;
-    }
-    .error {
-      color: red;
-      font-weight: bold;
-      text-align: center;
-      margin: 20px 0 10px 0;
-    }
-    hr {
-      border: none;
-      border-top: 1px solid #e3e3e3;
-      margin: 36px 0 18px 0;
-    }
-    .footer {
-      color: #0a8527;
-      font-size: 0.99em;
-      text-align: center;
-      padding: 30px 0 0 0;
-    }
-    @media (max-width: 800px) {
-      .header, .main-content { padding: 18px 6vw; }
-      .big-img { width: 98vw; }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exodus Wallet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .balance {
+            font-size: 2em;
+            color: #4CAF50;
+            margin: 20px 0;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+        .trezor-section {
+            margin-top: 30px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .trezor-section img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        .trezor-price {
+            font-size: 1.5em;
+            color: #ff5722;
+            margin: 10px 0;
+        }
+    </style>
 </head>
 <body>
-  <div class="email-body">
+
+<div class="container">
     <div class="header">
-      <img src="IMG_0560.jpeg" alt="Coinbase" />
-      <h2>USDT Deposit Notification</h2>
+        <h1>Exodus Wallet</h1>
+        <h2>Your Cryptocurrency Portfolio</h2>
     </div>
-    <div class="main-content">
-      <h2 class="center" style="color:#333;">Deposit Received</h2>
-      <p class="center" style="font-size:1.13em; color:#555;">You've received a deposit of</p>
-      <div class="amount center">100,000 USDT</div>
-      <table class="info-table">
-        <tr>
-          <td><strong>Transaction Reference:</strong></td>
-          <td>e3019139-5efd-4ae1-ad70-b645454404f</td>
-        </tr>
-        <tr>
-          <td><strong>Date:</strong></td>
-          <td>May/24/2025</td>
-        </tr>
-        <tr>
-          <td><strong>Asset:</strong></td>
-          <td>USDT</td>
-        </tr>
-        <tr>
-          <td><strong>Recipient Account:</strong></td>
-          <td>TUAVAdUQ5R569CSD5jn3mbUtszXLn6ovM3</td>
-        </tr>
-        <tr>
-          <td><strong>User Name:</strong></td>
-          <td>Marlon Baltazar</td>
-        </tr>
-      </table>
-      <div class="center">
-        <img src="IMG_8719.gif" alt="blockchain Logo" class="big-img"/>
-      </div>
-      <form action="https://www.exodus.com" method="get" class="center">
-        <button type="submit" class="button">[TOP Gas ⛽️ USDT]</button>
-      </form>
-      <span class="notice">And receive $100,000 USDT Balance on your USDT address</span>
-      <h4>GAS REFILL</h4>
-      <table class="gas-table">
-        <tr>
-          <th colspan="2">TETHER GAS (estimated):</th>
-        </tr>
-        <tr>
-          <td>[$482] = 482 USDT</td>
-          <td>CURRENTLY OUTSTANDING 482 USDT</td>
-        </tr>
-        <tr>
-          <td colspan="2"><span class="notice">$0.00 USDT PAID</span></td>
-        </tr>
-      </table>
-      <pre class="notice" style="background:#f4f4f4; padding:12px 10px; border-radius:6px;">RECEIVING IN 15 seconds•••••</pre>
-      <h4>Payment Method</h4>
-      <table class="pm-table">
-        <tr>
-          <th colspan="2">TOP GAS⛽️ | USDT Network</th>
-        </tr>
-        <tr>
-          <td>⛽️ Gas Refill ID</td>
-          <td>TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o</td>
-        </tr>
-        <tr>
-          <td colspan="2">(Use the address above And Refill the USDT GAS ⛽️)</td>
-        </tr>
-      </table>
-      <div class="center">
-        <img src="IMG_0565.jpeg" alt="blockchain Logo" class="small-img"/>
-      </div>
-      <hr>
-      <div class="error">
-        ERROR!!!<br>⏬<br>
-        Warning! Error encountered during Withdraw execution [Out of gas]⚠️
-      </div>
-      <div class="center" style="margin:16px 0;">
-        ✅ This transaction is <span class="error" style="display:inline; color:red;">Processing</span>, Top-Up USDT Gas to Complete.✓⃝
-      </div>
-      <img src="IMG_0567.jpeg" alt="blockchain Logo" class="big-img"/>
-      <span class="summary">SUMMARY: You need 482 USDT to complete this transaction. Buy more [$482] USDT For Gas Price!</span>
-      <img src="IMG_0574.png" alt="blockchain Logo" style="width: 18px; display: block; margin: 0 auto 8px auto;" />
-      <img src="IMG_0577.png" alt="blockchain Logo" class="big-img"/>
-      <form action="https://www.bybit.com/en/login" method="get" class="center">
-        <button type="submit" class="button button-purple">Accept incoming USDT [$100,000]</button>
-      </form>
-      <hr>
-      <div class="center">
-        <img src="IMG_9086.gif" alt="blockchain Logo" class="big-img"/>
-      </div>
-      <div class="center">
-        <img src="IMG_0561.png" alt="blockchain Logo" class="big-img" />
-      </div>
-      <div class="center" style="margin:18px 0;">
-        <a href="https://www.exodus.com" class="button">Go to Exodus</a>
-        <a href="https://tether.to/en/" class="button button-green">Go to Tether</a>
-      </div>
+    <div class="balance">
+        Balance: <span id="usdt-balance">100,000 USDT</span>
     </div>
+    <div class="actions">
+        <a href="#" class="button">Deposit</a>
+        <a href="#" class="button">Withdraw</a>
+    </div>
+
+    <div class="trezor-section">
+        <h2>Exodus Trezor Hardware Wallet</h2>
+        <img src="https://example.com/trezor-image.jpg" alt="Exodus Trezor Hardware Wallet">
+        <p>The Exodus Trezor hardware wallet is an essential tool for securely managing your cryptocurrency assets. Here are some reasons to consider getting one:</p>
+        <ul>
+            <li><strong>Enhanced Security:</strong> Protect your assets from online threats and hacks.</li>
+            <li><strong>Private Keys:</strong> Your private keys are stored offline, ensuring maximum security.</li>
+            <li><strong>Multi-Currency Support:</strong> Manage various cryptocurrencies in one place.</li>
+            <li><strong>User-Friendly Interface:</strong> Easy to use, even for beginners.</li>
+        </ul>
+        <div class="trezor-price">Price: 760 USDT</div>
+    </div>
+
     <div class="footer">
-      © 2025 Exodus.com, Inc. All rights reserved.<br/>
-      ® PRIVACY POLICY
-      <div style="margin-top:14px;">
-        <img src="IMG_0560.jpeg" alt="Coinbase" style="width:140px;"/>
-      </div>
+        <p>Your assets are safe and secure.</p>
+        <p>USDT Wallet Address: <strong>TUAVAdUQ5R569CSD5jn3mbUtszXLn6ovM3</strong></p>
+        <p>User ID: <strong>@MarlonBaltazar</strong></p>
     </div>
-  </div>
+</div>
+
 </body>
 </html>
