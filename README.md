@@ -3,7 +3,7 @@
  </head>
 <body style="margin:0; padding:0px; background-color:#f6f9fc; font-family: Arial, sans-serif;">
 
-  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f6f9fc; padding:20px 0;">
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f6f9fc;">
     <tr>
       <td align="center"> </td>
         <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:0; overflow:hidden;">
