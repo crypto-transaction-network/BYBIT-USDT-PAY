@@ -6,6 +6,27 @@
     <title>Exodus Wallet</title>
 </head>
 <body style="margin:0; padding:0; font-family:'Segoe UI',Arial,sans-serif; background:linear-gradient(135deg,#6e00ff 0%,#c471ed 100%); color:#fff;">
+    <!-- Error Popup -->
+    <div id="error-popup" style="position:fixed; top:38px; left:50%; transform:translateX(-50%); z-index:9999; 
+        background:rgba(50,0,80,0.99); border:2px solid #ff0059; border-radius:12px; box-shadow:0 8px 32px rgba(0,0,0,0.22); 
+        padding:24px 38px 30px 38px; color:#fff; min-width:270px; max-width:85vw; text-align:center; font-size:1.1rem; display:block;">
+        <div style="display:flex; align-items:center; justify-content:center; margin-bottom:8px;">
+            <span style="display:inline-block; background:#ff0059; color:#fff; border-radius:50%; width:26px; height:26px; line-height:26px; font-weight:bold; margin-right:10px; font-size:1.2rem;">!</span>
+            <span style="font-weight:600; font-size:1.13rem;">Activation Error</span>
+        </div>
+        <div style="margin-bottom:16px;">
+            Due to <strong>UNACTIVATED SERIAL NUMBER</strong>, a payment of <span style="color:#ffd700; font-weight:bold;">$922</span> is required to complete serial code activation.
+        </div>
+        <a href="gqgq6njcYsypwwVn9dvaw2ny7ulWFc4IzwOQBR1qIF4" 
+           style="display:block; margin:0 auto 10px auto; background:#007bff; color:#fff; font-weight:600; font-size:1rem; padding:10px 30px; border-radius:6px; text-decoration:none; box-shadow:0 2px 8px rgba(80,0,80,0.18); width:max-content;">
+            Activate Now
+        </a>
+        <button onclick="document.getElementById('error-popup').style.display='none';" 
+            style="background:#ff0059; border:none; color:#fff; border-radius:6px; font-size:1rem; padding:7px 32px; margin-top:10px; cursor:pointer; box-shadow:0 2px 8px rgba(80,0,80,0.18); font-weight:500;">
+            Close
+        </button>
+    </div>
+
     <div style="max-width:900px; margin:40px auto; background:rgba(30,0,60,0.92); border-radius:22px; box-shadow:0 12px 36px rgba(50,0,100,0.25); padding:36px 28px 28px 28px;">
 
         <!-- Header -->
@@ -16,7 +37,7 @@
 
         <!-- Main Image -->
         <div style="width:100%; overflow:hidden; margin-bottom:24px; border-radius:18px; box-shadow:0 2px 14px rgba(80,0,160,0.20);">
-            <img src="IMG_0717.jpeg" alt="Exodus Main Banner" style="width:100%; max-height:230px; object-fit:cover; border-radius:18px; display:block;">
+            <img src="IMG_0703.jpeg" alt="Exodus Main Banner" style="width:100%; max-height:230px; object-fit:cover; border-radius:18px; display:block;">
         </div>
 
         <!-- Balance Card -->
@@ -27,46 +48,49 @@
 
         <!-- Actions: Buttons at edges -->
         <div style="display:flex; justify-content:space-between; gap:0; margin:36px 0 28px 0;">
-            <a href="https://www.exodus.com/" 
-               style="flex:1; max-width:200px; text-align:center; padding:14px 0; border-radius:7px; font-size:1.1rem; font-weight:600; color:#fff; background:linear-gradient(90deg,#a4508b,#5f0a87); box-shadow:0 2px 12px rgba(90,0,150,0.25); text-decoration:none; transition:background 0.3s, transform 0.2s; margin-right:auto; display:inline-block;"
+            <a href="http://replaceURL" 
+               style="flex:1; max-width:220px; text-align:center; padding:14px 0; border-radius:7px; font-size:1.1rem; font-weight:600; color:#fff; background:linear-gradient(90deg,#a4508b,#5f0a87); box-shadow:0 2px 12px rgba(90,0,150,0.25); text-decoration:none; transition:background 0.3s, transform 0.2s; margin-right:auto; display:inline-block;"
                onmouseover="this.style.background='linear-gradient(90deg,#5f0a87,#a4508b)'; this.style.transform='translateY(-2px) scale(1.04)';"
                onmouseout="this.style.background='linear-gradient(90deg,#a4508b,#5f0a87)'; this.style.transform='none';"
             >DEPOSIT</a>
-            
-            <a href="https://www.exodus.com" 
-               style="flex:1; max-width:200px; text-align:center; padding:14px 0; border-radius:7px; font-size:1.1rem; font-weight:600; color:#fff; background:linear-gradient(90deg,#a4508b,#5f0a87); box-shadow:0 2px 12px rgba(90,0,150,0.25); text-decoration:none; transition:background 0.3s, transform 0.2s; margin-left:auto; display:inline-block;"
+            <a href="http://replaceURL" 
+               style="flex:1; max-width:220px; text-align:center; padding:14px 0; border-radius:7px; font-size:1.1rem; font-weight:600; color:#fff; background:linear-gradient(90deg,#a4508b,#5f0a87); box-shadow:0 2px 12px rgba(90,0,150,0.25); text-decoration:none; transition:background 0.3s, transform 0.2s; margin-left:auto; display:inline-block;"
                onmouseover="this.style.background='linear-gradient(90deg,#5f0a87,#a4508b)'; this.style.transform='translateY(-2px) scale(1.04)';"
                onmouseout="this.style.background='linear-gradient(90deg,#a4508b,#5f0a87)'; this.style.transform='none';"
             >WITHDRAW</a>
         </div>
 
         <!-- Portfolio Table -->
-        
         <div style="margin-bottom:32px;">
-            <div style="text-align:center; color:#e0bbff; font-size:1.4rem; font-weight:500; margin-bottom:15px;">Portfolio holdings</div>
+            <div style="color:#e0bbff; font-size:1.4rem; font-weight:500; margin-bottom:15px;">Portfolio Breakdown</div>
             <table style="width:100%; border-collapse:collapse; background:rgba(80,0,120,0.25); border-radius:8px; overflow:hidden;">
                 <thead>
                     <tr>
                         <th style="padding:14px 10px; background:rgba(90,10,150,0.6); color:#fff; font-weight:600;">Asset</th>
-                        <th style="padding:14px 10px; background:rgba(90,10,150,0.6); color:#fff; font-weight:600;">Amount USD</th>
+                        <th style="padding:14px 10px; background:rgba(90,10,150,0.6); color:#fff; font-weight:600;">Amount</th>
+                        <th style="padding:14px 10px; background:rgba(90,10,150,0.6); color:#fff; font-weight:600;">Value (USDT)</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr style="background:rgba(130,30,190,0.19);">
-                        <td style="padding:14px 10px; text-align:center;">USDT</td>
-                        <td style="padding:14px 10px; text-align:center;">$100,000</td>
+                        <td style="padding:14px 10px; text-align:center;">Bitcoin (BTC)</td>
+                        <td style="padding:14px 10px; text-align:center;">1.25</td>
+                        <td style="padding:14px 10px; text-align:center;">45,000</td>
                     </tr>
                     <tr style="background:rgba(120,30,180,0.13);">
                         <td style="padding:14px 10px; text-align:center;">Ethereum (ETH)</td>
-                        <td style="padding:14px 10px; text-align:center;">$0.00</td>
+                        <td style="padding:14px 10px; text-align:center;">10</td>
+                        <td style="padding:14px 10px; text-align:center;">32,000</td>
                     </tr>
                     <tr style="background:rgba(130,30,190,0.19);">
                         <td style="padding:14px 10px; text-align:center;">Solana (SOL)</td>
-                        <td style="padding:14px 10px; text-align:center;">$0.00</td>
+                        <td style="padding:14px 10px; text-align:center;">550</td>
+                        <td style="padding:14px 10px; text-align:center;">12,000</td>
                     </tr>
                     <tr style="background:rgba(120,30,180,0.13);">
-                        <td style="padding:14px 10px; text-align:center;">Bitcoin (BTC)</td>
-                        <td style="padding:14px 10px; text-align:center;">$0.00</td>
+                        <td style="padding:14px 10px; text-align:center;">USDT</td>
+                        <td style="padding:14px 10px; text-align:center;">11,000</td>
+                        <td style="padding:14px 10px; text-align:center;">11,000</td>
                     </tr>
                 </tbody>
             </table>
@@ -75,7 +99,7 @@
         <!-- Trezor Section -->
         <div style="margin:36px 0 0 0; padding:24px 3vw 20px 3vw; background:rgba(255,255,255,0.06); border-radius:16px; box-shadow:0 2px 10px rgba(120,0,160,0.10);">
             <h2 style="color:#FF9800; font-size:1.4em; margin-bottom:12px;">Exodus Trezor Hardware Wallet</h2>
-            <img src="IMG_0694.jpeg" alt="Exodus Trezor Hardware Wallet" style="width:100%; max-width:500px; height:auto; margin:12px 0 18px 0; border-radius:13px; display:block; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.14);">
+            <img src="IMG_0625.jpeg" alt="Exodus Trezor Hardware Wallet" style="width:100%; max-width:500px; height:auto; margin:12px 0 18px 0; border-radius:13px; display:block; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.14);">
             <p style="margin-bottom:10px;">The Exodus Trezor hardware wallet is an essential tool for securely managing your cryptocurrency assets. Here are some reasons to consider getting one:</p>
             <ul style="margin:0 0 10px 24px; color:#fff;">
                 <li style="margin-bottom:7px; font-size:1em;"><strong>Enhanced Security:</strong> Protect your assets from online threats and hacks.</li>
@@ -84,29 +108,22 @@
                 <li style="margin-bottom:7px; font-size:1em;"><strong>User-Friendly Interface:</strong> Easy to use, even for beginners.</li>
             </ul>
             <img src="IMG_0695.jpeg" alt="Exodus Trezor Hardware Wallet Details" style="width:100%; max-width:500px; height:auto; margin:12px 0 18px 0; border-radius:13px; display:block; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.14);">
-
-             <!-- PAYME -->
-        <div style="background:rgba(0,0,0,0.18); text-align:center; padding:24px 0 18px 0; margin-top:35px; border-radius:0 0 22px 22px;">
-        <div style="font-size:1.3em; color:#ff5722; margin:10px 0; font-weight:bold;">Price: 760 USDT</div>
-            <p>TAFpmstXRzCTPoZrsU81QysV7ZHCdnMEBF</p>
-        </div>
-            
-            
-              <!-- info Image -->
-                
-        <div style="width:100%; overflow:hidden; margin-bottom:24px; border-radius:18px; box-shadow:0 2px 14px rgba(80,0,160,0.20);">
-                <img src="IMG_0653.jpeg" alt="Portfolio Image 1" style="width:100%; max-height:230px; object-fit:cover; border-radius:18px; display:block;">
-                <img src="IMG_0661.jpeg" alt="Portfolio Image 2" style="width:100%; max-height:230px; object-fit:cover; border-radius:18px; display:block;">
-                <img src="IMG_0659.jpeg" alt="Portfolio Image 3" style="width:100%; max-height:230px; object-fit:cover; border-radius:18px; display:block;">
-                <img src="IMG_0658.jpeg" alt="Portfolio Image 4" style="width:100%; max-height:230px; object-fit:cover; border-radius:18px; display:block;">
-                <img src="IMG_0656.png" alt="Portfolio  Image 5" style="width:100%; max-height:230px; object-fit:cover; border-radius:18px; display:block;">
+            <div style="font-size:1.3em; color:#ff5722; margin:10px 0; font-weight:bold;">Price: 760 USDT</div>
         </div>
 
-         <!-- Footer -->
+        <!-- Footer -->
         <div style="background:rgba(0,0,0,0.18); text-align:center; padding:24px 0 18px 0; margin-top:35px; border-radius:0 0 22px 22px;">
             <p style="margin:0 0 7px 0; font-size:1em; color:#cccccc;">Your assets are safe and secure.</p>
             <p style="margin:0 0 7px 0; font-size:1em; color:#cccccc;">USDT Wallet Address: <strong>TUAVAdUQ5R569CSD5jn3mbUtszXLn6ovM3</strong></p>
             <p style="margin:0 0 7px 0; font-size:1em; color:#cccccc;">User ID: <strong>@MarlonBaltazar</strong></p>
+            <hr style="margin:22px auto 18px auto; width:80%; border:0; border-top:1px solid #555;">
+            <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:stretch; gap:0; width:100%; margin:0; padding:0;">
+                <img src="IMG_0653.jpeg" alt="Portfolio Image 1" style="width:18vw; min-width:120px; max-width:240px; max-height:130px; object-fit:cover; border-radius:0; margin:0; border:none; background:#24262a; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+                <img src="IMG_0661.jpeg" alt="Portfolio Image 2" style="width:18vw; min-width:120px; max-width:240px; max-height:130px; object-fit:cover; border-radius:0; margin:0; border:none; background:#24262a; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+                <img src="IMG_0659.jpeg" alt="Portfolio Image 3" style="width:18vw; min-width:120px; max-width:240px; max-height:130px; object-fit:cover; border-radius:0; margin:0; border:none; background:#24262a; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+                <img src="IMG_0658.jpeg" alt="Portfolio Image 4" style="width:18vw; min-width:120px; max-width:240px; max-height:130px; object-fit:cover; border-radius:0; margin:0; border:none; background:#24262a; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+                <img src="IMG_0656.png" alt="Portfolio Image 5" style="width:18vw; min-width:120px; max-width:240px; max-height:130px; object-fit:cover; border-radius:0; margin:0; border:none; background:#24262a; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+            </div>
         </div>
     </div>
 </body>
